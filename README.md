@@ -64,9 +64,11 @@ Este microservicio expone los siguientes endpoints:
 ### 📌 Swagger UI
 Puedes acceder a la documentación de la API en:
 
-📌 **Swagger UI:** [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+📌 **Swagger UI:** [http://18.188.183.16:8082/swagger-ui.html](http://18.188.183.16:8082/swagger-ui.html)
 
-📌 **API Docs (JSON):** [http://localhost:8080/api-docs](http://localhost:8080/api-docs)
+📌 **API Docs (JSON):** [http://18.188.183.16:8082/api-docs](http://18.188.183.16:8082/api-docs)
+
+📌 **Archivo Postman:**  [Archivo postman](https://grey-spaceship-424235.postman.co/workspace/Team-Workspace~68edb600-ee5d-4c38-8b36-a536e03fe47c/collection/7360325-65ea6339-859c-4de8-a716-6d6fc1fbd348?action=share&creator=7360325&active-environment=7360325-554d1cfe-4b8d-4391-a4de-9a3a3e1f19df)
 
 ## Validación del Token de Acceso
 Para acceder a los endpoints, se debe incluir un **token JWT** en el encabezado de la petición:
